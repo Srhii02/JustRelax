@@ -22,7 +22,7 @@ GIPHY_API_KEY = os.environ.get("GIPHY_API_KEY", "YOUR_GIPHY_API_KEY_HERE")
 QUOTABLE_API_URL = "https://api.quotable.io/random"
 ZENQUOTES_API_URL = "https://zenquotes.io/api/random"
 
-# Fallback quotes in case API fails
+# Fallback quotes in case API fails ok
 FALLBACK_QUOTES = [
     "Breathe. This too shall pass.",
     "You are stronger than you think.",
